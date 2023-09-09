@@ -1,0 +1,26 @@
+.choicebutton
+{
+    line-height: 30px;
+    width: 150px;
+
+}
+#Game{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 3px solid;
+    border-radius: 25px;
+    padding:  10px;
+    background-color: lightgray;
+    text-align: center;
+}
+#PText
+{
+    color: blue;
+}
+#CText
+{
+    color:  red;
+}
+#resultText
+{
+    color: yellow;
+}
